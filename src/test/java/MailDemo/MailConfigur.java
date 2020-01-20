@@ -7,7 +7,7 @@ public class MailConfigur extends Authenticator
 {
 	public PasswordAuthentication getPasswordAuthentication()
 	{
-		PasswordAuthentication p = new PasswordAuthentication("sri3665@gmail.com", "sri9738383665");
+		PasswordAuthentication p = new PasswordAuthentication("gmail.com", "");
 		return p;
 	}
 
